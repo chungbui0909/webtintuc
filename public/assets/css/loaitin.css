@@ -1,0 +1,32 @@
+.cmt{
+	position: relative;
+	margin-bottom: 70px;
+}
+.cmt .hinh{
+	width: 240px;
+	height: 240px;
+	
+}
+.cmt .hinh img{
+	width: 240px;
+	height: 240px;
+}
+.cmt .tom-tat{
+	
+	padding: 15px;
+	top:-20px;
+	position: absolute;
+
+}
+.cmt .tom-tat .ten-tin-tuc{
+	font-weight: bold;
+	font-size: 22px;
+	color: #d083cf;
+}
+.cmt .tom-tat .nd-tom-tat{
+	font-size: 12px;
+}
+.cmt .tom-tat a{
+	
+	margin-top: 20px;
+}

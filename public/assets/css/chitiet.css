@@ -1,0 +1,38 @@
+.cmt table{
+	position: relative;
+}
+.cmt .avt{
+	width: 40px;
+}
+.cmt .avt .media-left{
+	cursor: pointer;
+	position: absolute;
+	top:0;
+}
+.cmt .avt .media-left img{
+	border-radius: 50%; 
+	width: 32px; 
+	height:32px;
+	top: 0px;	
+}
+.cmt .noi-dung-cmt{
+	height: auto;
+	background-color: #fff; 
+}
+.cmt .noi-dung-cmt .user-nd{
+	background-color: #e9ebee; 
+	text-align: left; 
+	border-radius: 12px; 
+	padding: 8px;
+	height:auto;
+}
+.cmt .noi-dung-cmt .user-nd .user-binhluan{
+	background-color: #e9ebee;
+	font-weight: bold;
+	color: #d083cf;
+}
+.cmt .noi-dung-cmt .user-nd .nd-binhluan{
+	background-color: #e9ebee;
+	margin-left: 5px; 
+	font-size: 12px;
+}
